@@ -1,0 +1,31 @@
+{
+    "name": "frc/wp-essentials",
+    "type": "metapackage",
+    "description": "A collection of essential plugins & libraries for WordPress project.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joonas Meriläinen",
+            "email": "merilainenjoonas@gmail.com"
+        }
+    ],
+    "keywords": [
+        "wordpress"
+    ],
+    "require": {
+        "frc/wp-env-heroku-database": "*",
+        "frc/wp-env-heroku-cleardb": "*",
+        "frc/wp-env-heroku-jawsdb": "*",
+        "frc/wp-env-heroku-jawsdb-maria": "*",
+        "frc/wp-env-heroku-redis": "*",
+        "frc/wp-env-heroku-sendgrid": "*",
+        "frc/wp-env-heroku-amazon-aws": "*",
+        "frc/wp-env-heroku-custom-php-constant": "*",
+        "frc/wp-harness": "*",
+
+        "aucor/dynamic-mo-loader": "*",
+        "devgeniem/wp-core-blocker": "*",
+        "devgeniem/wp-sanitize-accented-uploads": "*",
+        "frc/wp-base": "*"
+    }
+}
