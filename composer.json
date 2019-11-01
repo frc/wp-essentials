@@ -14,12 +14,6 @@
     ],
     "require": {
         "frc/wp-env-heroku-database": "*",
-        "frc/wp-env-heroku-cleardb": "*",
-        "frc/wp-env-heroku-jawsdb": "*",
-        "frc/wp-env-heroku-jawsdb-maria": "*",
-        "frc/wp-env-heroku-redis": "*",
-        "frc/wp-env-heroku-sendgrid": "*",
-        "frc/wp-env-heroku-amazon-aws": "*",
         "frc/wp-env-heroku-custom-php-constant": "*",
         "frc/wp-harness": "*",
 
