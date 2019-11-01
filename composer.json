@@ -17,7 +17,6 @@
         "frc/wp-env-heroku-custom-php-constant": "*",
         "frc/wp-harness": "*",
 
-        "aucor/dynamic-mo-loader": "*",
         "devgeniem/wp-core-blocker": "*",
         "devgeniem/wp-sanitize-accented-uploads": "*",
         "frc/wp-base": "*"
