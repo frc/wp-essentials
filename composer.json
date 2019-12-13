@@ -13,8 +13,6 @@
         "wordpress"
     ],
     "require": {
-        "frc/wp-env-heroku-database": "*",
-        "frc/wp-env-heroku-custom-php-constant": "*",
         "frc/wp-harness": "*",
 
         "devgeniem/wp-core-blocker": "*",
